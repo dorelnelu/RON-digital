@@ -55,3 +55,5 @@ Dacă doriți să folosiți RONBIT contactați-ne în acest site https://www.cap
 GARANȚIE 100%
  MONEDA DIGITALĂ (RON), care este în circulație, este susținuta 100% din rezervele noastre de RON sau echivalente ale altor valute și poate să includă și alte active și conturi de împrumuturi încasate de RON digital către terți. 1 RON digital = 1 RON Rumano
  și întotdeauna 1 RON va fi egal cu 1 RON.
+RON digital cu 8 decimale
+https://etherscan.io/address/0x3E2828BA5F4Ae72B41Bb96326f85784Ac7B3f6CD
